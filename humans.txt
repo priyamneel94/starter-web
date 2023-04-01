@@ -6,6 +6,7 @@
     Spock -- Science officer
 	Jim -- Captain
 	McCoy -- Doctor
+	Scott -- Engineer
 
 # THANKS
 
