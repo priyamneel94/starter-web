@@ -6,4 +6,6 @@
 
 ## Purpose
 
-Sample website with plenty of files for demos
+## How to contribute
+
+## How not to contribute
