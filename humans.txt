@@ -3,7 +3,9 @@
 
 # TEAM
 
-    Scott -- Engineer
+    Spock -- Science officer
+	Jim -- Captain
+	McCoy -- Doctor
 
 # THANKS
 
