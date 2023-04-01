@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Scott -- Engineer
 
 # THANKS
 
-    <name>
+    Jim
 
 # TECHNOLOGY COLOPHON
 
