@@ -10,7 +10,7 @@
 
 # THANKS
 
-    Jim,Sulu,Chekov
+    Jim,Sulu,Chekov,Uhura
 
 # TECHNOLOGY COLOPHON
 
